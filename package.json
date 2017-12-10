@@ -1,0 +1,23 @@
+{
+  "name": "storefront-db-node-app",
+  "version": "1.0.0",
+  "description": "Purchase items from a store using a database",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ohletsee/storefront-db-node-app.git"
+  },
+  "author": "James Scott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ohletsee/storefront-db-node-app/issues"
+  },
+  "homepage": "https://github.com/Ohletsee/storefront-db-node-app#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "mysql": "^2.15.0"
+  }
+}
